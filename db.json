@@ -187,16 +187,6 @@
             "completedLecture": 14,
             "totalLecture": 15,
             "totalDuration": "2h 30min"
-        },
-        {
-            "categoryId": 3,
-            "name": "MngoDb Advance",
-            "description": "JavaScrip complete guide",
-            "coverPhoto": "assets/images/img2.jpg",
-            "completionPercentage": 60,
-            "completedLecture": 8,
-            "totalLecture": 15,
-            "totalDuration": "2h 30min"
         }
     ]
 }
