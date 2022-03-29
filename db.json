@@ -4,7 +4,7 @@
             "categoryId": 1,
             "name": "Intorductin To JavaScrip",
             "description": "Intorduction To JavaScrip (the beginner's guide)",
-            "coverPhoto": "assets/images/img2.jpg",
+            "coverPhoto": "assets/images/img1.jpg",
             "totalDuration": "2h 30min"
         },
         {
@@ -18,7 +18,7 @@
             "categoryId": 1,
             "name": "Intorduction To Angular",
             "description": "Intorduction To Angular (the beginner's guide)",
-            "coverPhoto": "assets/images/img2.jpg",
+            "coverPhoto": "assets/images/img3.jpg",
             "totalDuration": "2h 30min"
         },
         {
@@ -132,7 +132,10 @@
             "categoryId": 1,
             "name": "Intorductin To JavaScrip",
             "description": "Intorduction To JavaScrip (the beginner's guide)",
-            "coverPhoto": "assets/images/img2.jpg",
+            "coverPhoto": "assets/images/img1.jpg",
+            "completionPercentage": "50",
+            "completedLecture": "8",
+            "totalLecture": "15",
             "totalDuration": "2h 30min"
         },
         {
@@ -140,42 +143,54 @@
             "name": "Intorduction To Flutter",
             "description": "Intorduction To Flutter (the beginner's guide)",
             "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "2h 30min"
+            "completedLecture": "10",
+            "totalLecture": "20",
+            "totalDuration": "3h 30min"
         },
         {
             "categoryId": 2,
             "name": "Intorduction To C#",
             "description": "Intorduction To C# (the beginner's guide)",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "2h 30min"
+            "coverPhoto": "assets/images/img3.jpg",
+            "completedLecture": "7",
+            "totalLecture": "13",
+            "totalDuration": "1h 30min"
         },
         {
             "categoryId": 3,
             "name": "Intorduction To SLQ Server",
             "description": "Intorduction To SLQ Server (the beginner's guide)",
             "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "3h 30min"
+            "completedLecture": "12",
+            "totalLecture": "15",
+            "totalDuration": "2h 15min"
         },
         {
             "categoryId": 3,
             "name": "SLQ Server Advance",
             "description": "JavaScrip complete guide",
             "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "5h 30min"
+            "completedLecture": "8",
+            "totalLecture": "15",
+            "totalDuration": "2h 30min"
         },
         {
             "categoryId": 3,
             "name": "Intorduction To MngoDb",
             "description": "Intorduction To MngoDb (the beginner's guide)",
             "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "3h 30min"
+            "completedLecture": "8",
+            "totalLecture": "15",
+            "totalDuration": "2h 30min"
         },
         {
             "categoryId": 3,
             "name": "MngoDb Advance",
             "description": "JavaScrip complete guide",
             "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "5h 30min"
+            "completedLecture": "8",
+            "totalLecture": "15",
+            "totalDuration": "2h 30min"
         }
     ]
 }
