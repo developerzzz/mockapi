@@ -143,6 +143,7 @@
             "name": "Intorduction To Flutter",
             "description": "Intorduction To Flutter (the beginner's guide)",
             "coverPhoto": "assets/images/img2.jpg",
+            "completionPercentage": "70",
             "completedLecture": "10",
             "totalLecture": "20",
             "totalDuration": "3h 30min"
@@ -152,6 +153,7 @@
             "name": "Intorduction To C#",
             "description": "Intorduction To C# (the beginner's guide)",
             "coverPhoto": "assets/images/img3.jpg",
+            "completionPercentage": "80",
             "completedLecture": "7",
             "totalLecture": "13",
             "totalDuration": "1h 30min"
@@ -161,6 +163,7 @@
             "name": "Intorduction To SLQ Server",
             "description": "Intorduction To SLQ Server (the beginner's guide)",
             "coverPhoto": "assets/images/img2.jpg",
+            "completionPercentage": "40",
             "completedLecture": "12",
             "totalLecture": "15",
             "totalDuration": "2h 15min"
@@ -170,6 +173,7 @@
             "name": "SLQ Server Advance",
             "description": "JavaScrip complete guide",
             "coverPhoto": "assets/images/img2.jpg",
+            "completionPercentage": "30",
             "completedLecture": "8",
             "totalLecture": "15",
             "totalDuration": "2h 30min"
@@ -179,7 +183,8 @@
             "name": "Intorduction To MngoDb",
             "description": "Intorduction To MngoDb (the beginner's guide)",
             "coverPhoto": "assets/images/img2.jpg",
-            "completedLecture": "8",
+            "completionPercentage": "90",
+            "completedLecture": "14",
             "totalLecture": "15",
             "totalDuration": "2h 30min"
         },
@@ -188,6 +193,7 @@
             "name": "MngoDb Advance",
             "description": "JavaScrip complete guide",
             "coverPhoto": "assets/images/img2.jpg",
+            "completionPercentage": "60",
             "completedLecture": "8",
             "totalLecture": "15",
             "totalDuration": "2h 30min"
