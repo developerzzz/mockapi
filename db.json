@@ -71,24 +71,25 @@
     "userCourses": [
         {
             "categoryId": 1,
-            "name": "Intorductin To JavaScrip",
+            "courseId": 1,
+            "name": "Intorduction To JavaScript",
             "description": "Intorduction To JavaScrip (the beginner's guide)",
-            "coverPhoto": "assets/images/img1.jpg",
-            "completionPercentage": 50,
-            "completedLecture": 8,
-            "totalLecture": 15,
-            "totalDuration": "30min"
+            "coverPhoto": "assets/images/img2.jpg",
+            "totalLecture": 20,
+            "totalDuration": "3h 30min"
         },
         {
             "categoryId": 1,
+            "courseId": 2,
             "name": "Intorduction To Flutter",
             "description": "Intorduction To Flutter (the beginner's guide)",
             "coverPhoto": "assets/images/img2.jpg",
             "totalLecture": 20,
-            "totalDuration": "1h 30min"
+            "totalDuration": "3h 30min"
         },
         {
             "categoryId": 2,
+            "courseId": 3,
             "name": "Intorduction To C#",
             "description": "Intorduction To C# (the beginner's guide)",
             "coverPhoto": "assets/images/img3.jpg",
@@ -99,6 +100,7 @@
         },
         {
             "categoryId": 3,
+            "courseId": 4,
             "name": "Intorduction To SLQ Server",
             "description": "Intorduction To SLQ Server (the beginner's guide)",
             "coverPhoto": "assets/images/img2.jpg",
@@ -109,6 +111,7 @@
         },
         {
             "categoryId": 3,
+            "courseId": 5,
             "name": "SLQ Server Advance",
             "description": "JavaScrip complete guide",
             "coverPhoto": "assets/images/img2.jpg",
@@ -117,6 +120,7 @@
         },
         {
             "categoryId": 3,
+            "courseId": 6,
             "name": "Intorduction To MngoDb",
             "description": "Intorduction To MngoDb (the beginner's guide)",
             "coverPhoto": "assets/images/img2.jpg",
@@ -127,6 +131,7 @@
         },
         {
             "categoryId": 3,
+            "courseId": 7,
             "name": "MngoDb Advance",
             "description": "JavaScrip complete guide",
             "coverPhoto": "assets/images/img2.jpg",
@@ -204,6 +209,123 @@
             "completedLecture": 8,
             "totalLecture": 15,
             "totalDuration": "2h 30min"
+        }
+    ],
+    "courseDetails": [
+        {
+            "categoryId": 1,
+            "courseId": 1,
+            "name": "Intorductin To JavaScrip",
+            "description": "Intorduction To JavaScrip (the beginner's guide)",
+            "coverPhoto": "assets/images/img1.jpg",
+            "introductionVideo": "",
+            "completionPercentage": 50,
+            "completedLecture": 8,
+            "totalLecture": 15,
+            "totalDuration": "2h 30min",
+            "courseBriefDescription": "",
+            "countentGroups": [
+                {
+                    "groupId": 1,
+                    "groupName": "Intorduction",
+                    "totalDuration": "00:30:10",
+                    "totalLecture": 3
+                },
+                {
+                    "groupId": 2,
+                    "groupName": "JavaScrip Details",
+                    "totalDuration": "00:50:10",
+                    "totalLecture": 3
+                },
+                {
+                    "groupId": 3,
+                    "groupName": "Conclusion",
+                    "totalDuration": "00:05:10",
+                    "totalLecture": 2
+                }
+            ],
+            "courseContent": [
+                {
+                    "name": "Course Introduction",
+                    "description": "",
+                    "contentOrder": 1,
+                    "contentType": 1,
+                    "groupId": 1,
+                    "groupOrder": 1,
+                    "contentURL": "",
+                    "completed": true
+                },
+                {
+                    "name": "Course Outline",
+                    "description": "",
+                    "contentType": 2,
+                    "contentOrder": 2,
+                    "groupId": 1,
+                    "groupOrder": 1,
+                    "contentURL": "",
+                    "completed": true
+                },
+                {
+                    "name": "Quize",
+                    "description": "",
+                    "contentType": 3,
+                    "contentOrder": 3,
+                    "groupId": 1,
+                    "groupOrder": 1,
+                    "contentURL": "",
+                    "completed": false
+                },
+                {
+                    "name": "Javascrip step 1",
+                    "description": "",
+                    "contentType": 1,
+                    "contentOrder": 1,
+                    "groupId": 2,
+                    "groupOrder": 2,
+                    "contentURL": "",
+                    "completed": false
+                },
+                {
+                    "name": "Javascrip step 2",
+                    "description": "",
+                    "contentType": 2,
+                    "contentOrder": 2,
+                    "groupId": 2,
+                    "groupOrder": 2,
+                    "contentURL": "",
+                    "completed": false
+                },
+                {
+                    "name": "JavaScrip step 23",
+                    "description": "",
+                    "contentType": 3,
+                    "contentOrder": 3,
+                    "groupId": 2,
+                    "groupOrder": 2,
+                    "contentURL": "",
+                    "completed": false
+                },
+                {
+                    "name": "Javascrip conclusion",
+                    "description": "",
+                    "contentType": 1,
+                    "contentOrder": 1,
+                    "groupId": 3,
+                    "groupOrder": 3,
+                    "contentURL": "",
+                    "completed": false
+                },
+                {
+                    "name": "Javascrip conclusion",
+                    "description": "",
+                    "contentType": 1,
+                    "contentOrder": 2,
+                    "groupId": 3,
+                    "groupOrder": 3,
+                    "contentURL": "",
+                    "completed": false
+                }
+            ]
         }
     ]
 }
