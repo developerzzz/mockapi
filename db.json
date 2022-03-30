@@ -40,41 +40,6 @@
             "totalDuration": "2h 30min"
         },
         {
-            "categoryId": 1,
-            "name": "JavaScrip Advance",
-            "description": "JavaScrip complete guide",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "5h 30min"
-        },
-        {
-            "categoryId": 1,
-            "name": "Intorduction To Angular",
-            "description": "Intorduction To Angular (the beginner's guide)",
-            "coverPhoto": "assets/images/img3.jpg",
-            "totalDuration": "2h 30min"
-        },
-        {
-            "categoryId": 1,
-            "name": "Angular Advance",
-            "description": "Angular complete guide",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "5h 30min"
-        },
-        {
-            "categoryId": 1,
-            "name": "Intorduction To Flutter",
-            "description": "Intorduction To Flutter (the beginner's guide)",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "2h 30min"
-        },
-        {
-            "categoryId": 1,
-            "name": "Flutter Advance",
-            "description": "JavaScrip complete guide",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "5h 30min"
-        },
-        {
             "categoryId": 2,
             "name": "Intorduction To C#",
             "description": "Intorduction To C# (the beginner's guide)",
@@ -89,34 +54,6 @@
             "totalDuration": "5h 30min"
         },
         {
-            "categoryId": 2,
-            "name": "Intorduction To Java",
-            "description": "Intorduction To Java (the beginner's guide)",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "2h 30min"
-        },
-        {
-            "categoryId": 2,
-            "name": "Java Advance",
-            "description": "Angular complete guide",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "5h 30min"
-        },
-        {
-            "categoryId": 2,
-            "name": "Intorduction To Dart",
-            "description": "Intorduction To Dart (the beginner's guide)",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "2h 30min"
-        },
-        {
-            "categoryId": 2,
-            "name": "Dart Advance",
-            "description": "JavaScrip complete guide",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "5h 30min"
-        },
-        {
             "categoryId": 3,
             "name": "Intorduction To SLQ Server",
             "description": "Intorduction To SLQ Server (the beginner's guide)",
@@ -126,34 +63,6 @@
         {
             "categoryId": 3,
             "name": "SLQ Server Advance",
-            "description": "JavaScrip complete guide",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "5h 30min"
-        },
-        {
-            "categoryId": 3,
-            "name": "Intorduction To Orcle",
-            "description": "Intorduction To Orcle (the beginner's guide)",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "3h 30min"
-        },
-        {
-            "categoryId": 3,
-            "name": "Orcle Advance",
-            "description": "Angular complete guide",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "5h 30min"
-        },
-        {
-            "categoryId": 3,
-            "name": "Intorduction To MngoDb",
-            "description": "Intorduction To MngoDb (the beginner's guide)",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "3h 30min"
-        },
-        {
-            "categoryId": 3,
-            "name": "MngoDb Advance",
             "description": "JavaScrip complete guide",
             "coverPhoto": "assets/images/img2.jpg",
             "totalDuration": "5h 30min"
@@ -187,27 +96,6 @@
             "description": "JavaScrip complete guide",
             "coverPhoto": "assets/images/img2.jpg",
             "totalDuration": "5h 30min"
-        },
-        {
-            "categoryId": 2,
-            "name": "Intorduction To Java",
-            "description": "Intorduction To Java (the beginner's guide)",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "2h 30min"
-        },
-        {
-            "categoryId": 2,
-            "name": "Java Advance",
-            "description": "Angular complete guide",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "5h 30min"
-        },
-        {
-            "categoryId": 2,
-            "name": "Intorduction To Dart",
-            "description": "Intorduction To Dart (the beginner's guide)",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "2h 30min"
         },
         {
             "categoryId": 2,
