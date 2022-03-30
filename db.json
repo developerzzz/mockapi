@@ -77,7 +77,7 @@
             "completionPercentage": 50,
             "completedLecture": 8,
             "totalLecture": 15,
-            "totalDuration": "2h 30min"
+            "totalDuration": "30min"
         },
         {
             "categoryId": 1,
@@ -85,7 +85,7 @@
             "description": "Intorduction To Flutter (the beginner's guide)",
             "coverPhoto": "assets/images/img2.jpg",
             "totalLecture": 20,
-            "totalDuration": "3h 30min"
+            "totalDuration": "1h 30min"
         },
         {
             "categoryId": 2,
