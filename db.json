@@ -27,27 +27,6 @@
             "description": "Intorduction To C# (the beginner's guide)",
             "coverPhoto": "assets/images/img2.jpg",
             "totalDuration": "2h 30min"
-        },
-        {
-            "categoryId": 2,
-            "name": "C# Advance",
-            "description": "JavaScrip complete guide",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "5h 30min"
-        },
-        {
-            "categoryId": 3,
-            "name": "Intorduction To SLQ Server",
-            "description": "Intorduction To SLQ Server (the beginner's guide)",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "3h 30min"
-        },
-        {
-            "categoryId": 3,
-            "name": "SLQ Server Advance",
-            "description": "JavaScrip complete guide",
-            "coverPhoto": "assets/images/img2.jpg",
-            "totalDuration": "5h 30min"
         }
     ],
     "userCourses": [
