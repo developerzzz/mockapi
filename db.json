@@ -11,6 +11,24 @@
             "name": "JavaScrip Advance",
             "description": "JavaScrip complete guide",
             "coverPhoto": "assets/images/img2.jpg"
+        },
+        {
+            "categoryId": 3,
+            "name": "JavaScrip Advance",
+            "description": "JavaScrip complete guide",
+            "coverPhoto": "assets/images/img2.jpg"
+        },
+        {
+            "categoryId": 4,
+            "name": "JavaScrip Advance",
+            "description": "JavaScrip complete guide",
+            "coverPhoto": "assets/images/img2.jpg"
+        },
+        {
+            "categoryId": 5,
+            "name": "JavaScrip Advance",
+            "description": "JavaScrip complete guide",
+            "coverPhoto": "assets/images/img2.jpg"
         }
     ],
     "latestCourses": [
@@ -29,6 +47,30 @@
             "description": "Intorduction To C# (the beginner's guide)",
             "coverPhoto": "assets/images/img2.jpg",
             "totalDuration": "2h 30min"
+        },
+        {
+            "categoryId": 2,
+            "courseId": 3,
+            "name": "C# Advance",
+            "description": "JavaScrip complete guide",
+            "coverPhoto": "assets/images/img2.jpg",
+            "totalDuration": "5h 30min"
+        },
+        {
+            "categoryId": 3,
+            "courseId": 5,
+            "name": "Intorduction To SLQ Server",
+            "description": "Intorduction To SLQ Server (the beginner's guide)",
+            "coverPhoto": "assets/images/img2.jpg",
+            "totalDuration": "3h 30min"
+        },
+        {
+            "categoryId": 3,
+            "courseId": 6,
+            "name": "SLQ Server Advance",
+            "description": "JavaScrip complete guide",
+            "coverPhoto": "assets/images/img2.jpg",
+            "totalDuration": "5h 30min"
         }
     ],
     "userCourses": [
@@ -49,6 +91,57 @@
             "coverPhoto": "assets/images/img2.jpg",
             "totalLecture": 20,
             "totalDuration": "3h 30min"
+        },
+        {
+            "categoryId": 2,
+            "courseId": 3,
+            "name": "Intorduction To C#",
+            "description": "Intorduction To C# (the beginner's guide)",
+            "coverPhoto": "assets/images/img3.jpg",
+            "completionPercentage": 80,
+            "completedLecture": 7,
+            "totalLecture": 13,
+            "totalDuration": "1h 30min"
+        },
+        {
+            "categoryId": 3,
+            "courseId": 4,
+            "name": "Intorduction To SLQ Server",
+            "description": "Intorduction To SLQ Server (the beginner's guide)",
+            "coverPhoto": "assets/images/img2.jpg",
+            "completionPercentage": 40,
+            "completedLecture": 12,
+            "totalLecture": 15,
+            "totalDuration": "2h 15min"
+        },
+        {
+            "categoryId": 3,
+            "courseId": 5,
+            "name": "SLQ Server Advance",
+            "description": "JavaScrip complete guide",
+            "coverPhoto": "assets/images/img2.jpg",
+            "totalLecture": 15,
+            "totalDuration": "2h 30min"
+        },
+        {
+            "categoryId": 3,
+            "courseId": 6,
+            "name": "Intorduction To MngoDb",
+            "description": "Intorduction To MngoDb (the beginner's guide)",
+            "coverPhoto": "assets/images/img2.jpg",
+            "completionPercentage": 90,
+            "completedLecture": 14,
+            "totalLecture": 15,
+            "totalDuration": "2h 30min"
+        },
+        {
+            "categoryId": 3,
+            "courseId": 7,
+            "name": "MngoDb Advance",
+            "description": "JavaScrip complete guide",
+            "coverPhoto": "assets/images/img2.jpg",
+            "totalLecture": 15,
+            "totalDuration": "2h 30min"
         }
     ],
     "inProgressCourses": [
@@ -73,6 +166,61 @@
             "completedLecture": 10,
             "totalLecture": 20,
             "totalDuration": "3h 30min"
+        },
+        {
+            "categoryId": 2,
+            "courseId": 3,
+            "name": "Intorduction To C#",
+            "description": "Intorduction To C# (the beginner's guide)",
+            "coverPhoto": "assets/images/img3.jpg",
+            "completionPercentage": 80,
+            "completedLecture": 7,
+            "totalLecture": 13,
+            "totalDuration": "1h 30min"
+        },
+        {
+            "categoryId": 3,
+            "courseId": 4,
+            "name": "Intorduction To SLQ Server",
+            "description": "Intorduction To SLQ Server (the beginner's guide)",
+            "coverPhoto": "assets/images/img2.jpg",
+            "completionPercentage": 40,
+            "completedLecture": 12,
+            "totalLecture": 15,
+            "totalDuration": "2h 15min"
+        },
+        {
+            "categoryId": 3,
+            "courseId": 5,
+            "name": "SLQ Server Advance",
+            "description": "JavaScrip complete guide",
+            "coverPhoto": "assets/images/img2.jpg",
+            "completionPercentage": 30,
+            "completedLecture": 8,
+            "totalLecture": 15,
+            "totalDuration": "2h 30min"
+        },
+        {
+            "categoryId": 3,
+            "courseId": 6,
+            "name": "Intorduction To MngoDb",
+            "description": "Intorduction To MngoDb (the beginner's guide)",
+            "coverPhoto": "assets/images/img2.jpg",
+            "completionPercentage": 90,
+            "completedLecture": 14,
+            "totalLecture": 15,
+            "totalDuration": "2h 30min"
+        },
+        {
+            "categoryId": 3,
+            "courseId": 7,
+            "name": "MngoDb Advance",
+            "description": "JavaScrip complete guide",
+            "coverPhoto": "assets/images/img2.jpg",
+            "completionPercentage": 60,
+            "completedLecture": 8,
+            "totalLecture": 15,
+            "totalDuration": "2h 30min"
         }
     ],
     "courseDetails": [
@@ -190,14 +338,12 @@
                     "completed": false
                 }
             ]
-        }
-    ],
-    "courseDetails": [
+        },
         {
             "categoryId": 1,
-            "courseId": 1,
-            "name": "Intorductin To JavaScrip",
-            "description": "Intorduction To JavaScrip (the beginner's guide)",
+            "courseId": 2,
+            "name": "Intorductin To C#",
+            "description": "Intorduction To C# (the beginner's guide)",
             "coverPhoto": "assets/images/img1.jpg",
             "introductionVideo": "",
             "completionPercentage": 50,
@@ -214,7 +360,7 @@
                 },
                 {
                     "groupId": 2,
-                    "groupName": "JavaScrip Details",
+                    "groupName": "C# Details",
                     "totalDuration": "00:50:10",
                     "totalLecture": 3
                 },
@@ -257,7 +403,7 @@
                     "completed": false
                 },
                 {
-                    "name": "Javascrip step 1",
+                    "name": "C# step 1",
                     "description": "",
                     "contentType": 1,
                     "contentOrder": 1,
@@ -267,7 +413,7 @@
                     "completed": false
                 },
                 {
-                    "name": "Javascrip step 2",
+                    "name": "C# step 2",
                     "description": "",
                     "contentType": 2,
                     "contentOrder": 2,
@@ -277,7 +423,7 @@
                     "completed": false
                 },
                 {
-                    "name": "JavaScrip step 23",
+                    "name": "C# step 23",
                     "description": "",
                     "contentType": 3,
                     "contentOrder": 3,
@@ -287,7 +433,7 @@
                     "completed": false
                 },
                 {
-                    "name": "Javascrip conclusion",
+                    "name": "C# conclusion",
                     "description": "",
                     "contentType": 1,
                     "contentOrder": 1,
@@ -297,7 +443,7 @@
                     "completed": false
                 },
                 {
-                    "name": "Javascrip conclusion",
+                    "name": "C# conclusion",
                     "description": "",
                     "contentType": 1,
                     "contentOrder": 2,
